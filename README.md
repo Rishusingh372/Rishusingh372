@@ -1,5 +1,6 @@
 # 💫 Hello World, I'm Rishu Kumar Singh  
 **MERN Stack Developer • Open Source Advocate • Digital Craftsman**
+> I'm a passionate MERN Stack Developer with a knack for building scalable, user-centric web applications. I thrive on turning complex problems into elegant, efficient code. When I'm not committing to GitHub, I'm probably exploring new tech stacks or contributing to open source.
 
 ---
 

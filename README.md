@@ -46,7 +46,7 @@
 ---
 
 ## 🛠️ Tech Arsenal  
-
+### 🎨 Frontend Mastery  
 <div align="center">
 
   <a href="#">

@@ -8,11 +8,20 @@
 
 ⚡ Crafting impactful digital experiences with code & creativity ⚡  
 
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://rishusingh372.github.io/Portfolio)  
-[![📄 Resume](https://img.shields.io/badge/📄_Resume-008080?style=for-the-badge&logo=readthedocs&logoColor=white)](#)  
-[![💼 Hire Me](https://img.shields.io/badge/💼_Hire_Me-00C04B?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:singhrishukumar008@gmail.com)  
+<p align="center">
+  <a href="https://rishusingh372.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-008080?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="mailto:singhrishukumar008@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-00C04B?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
 
 ---
 

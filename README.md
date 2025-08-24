@@ -29,19 +29,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishusingh372&show_icons=true&theme=aura&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=6366f1&title_color=6366f1" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishusingh372&layout=compact&theme=aura&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=6366f1" height="180em" />
+<!-- GitHub Stats -->
+![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=Rishusingh372&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
+![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=Rishusingh372&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=6366f1&title_color=6366f1#gh-dark-mode-only)
+
+<!-- Top Languages -->
+![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishusingh372&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
+![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishusingh372&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=6366f1#gh-dark-mode-only)
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=Rishusingh372&theme=aura&hide_border=true&background=00000000&dates=FFFFFF&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=FFFFFF)  
+<!-- Streak Stats -->
+![Streak Light](https://streak-stats.demolab.com?user=Rishusingh372&theme=default&hide_border=true#gh-light-mode-only)
+![Streak Dark](https://streak-stats.demolab.com?user=Rishusingh372&theme=aura&hide_border=true&background=0D1117&dates=FFFFFF&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=FFFFFF#gh-dark-mode-only)
 
 🏆 **GitHub Trophies**  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Rishusingh372&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)  
 
 </div>
+
 
 ---
 

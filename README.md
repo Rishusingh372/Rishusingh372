@@ -135,5 +135,18 @@
 </p>
 
 ---
+<div align="center">
+
+⚡ **Focus:** Building scalable web applications with cutting-edge technologies  
+🌱 **Currently Learning:** Next.js 14, GraphQL, Advanced React patterns  
+🎯 **2025 Goal:** Contribute to 5+ open-source projects & master system design  
+
+✨ *"Code is the art of turning imagination into innovation."*  
+
+💙 Thanks for visiting my profile!  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishusingh372&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)  
+
+</div>
 
 

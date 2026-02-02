@@ -1,8 +1,11 @@
-# 👋 Hello World, I'm Rishu Kumar Singh  
-**MERN Stack Developer • Open Source Advocate • Digital Craftsman**
+#  Hello World, I'm Rishu Kumar Singh  
+**MERN Stack Developer • Full-Stack Problem Solver • Open Source Learner**
 
-> I’m a passionate **MERN Stack Developer** who builds scalable, secure, and user-centric web applications.  
-I enjoy turning complex requirements into clean, maintainable code. When I’m not committing to GitHub, I’m exploring modern web technologies and improving system design fundamentals.
+> I’m a **MERN Stack Developer** passionate about building fast, scalable, and secure web applications.  
+I specialize in creating responsive user interfaces, designing robust REST APIs, and implementing secure authentication.  
+When I’m not coding, I’m learning Next.js, improving backend performance, and strengthening my system design skills.
+
+
 
 ---
 
@@ -26,15 +29,15 @@ I enjoy turning complex requirements into clean, maintainable code. When I’m n
 
 ---
 
-## 🙋‍♂️ About Me  
+##  About Me  
 
-- 🎓 **B.Tech (CSE)** – Technocrates Institute of Technology, Bhopal  
-- 💼 MERN Developer with experience in building **Admin/User dashboards**  
-- 🔐 Implemented **JWT authentication + Role-Based Access Control (RBAC)**  
-- 🧩 Built scalable **REST APIs** and integrated with React frontend  
-- ⚡ Worked in **Agile/Scrum**, used **Jira** for sprint/task management  
-- 🌱 Currently learning: **Next.js, System Design, Advanced React Patterns**  
-- 🎯 2025 Goal: **Contribute to 5+ open-source projects + crack product role**
+-  **B.Tech (CSE)** – Technocrates Institute of Technology, Bhopal  
+-  MERN Developer with experience in building **Admin/User dashboards**  
+-  Implemented **JWT authentication + Role-Based Access Control (RBAC)**  
+-  Built scalable **REST APIs** and integrated with React frontend  
+-  Worked in **Agile/Scrum**, used **Jira** for sprint/task management  
+-  Currently learning: **Next.js, System Design, Advanced React Patterns**  
+-  2026 Goal: **Contribute to 5+ open-source projects + crack product role**
 
 ---
 
@@ -105,11 +108,10 @@ I enjoy turning complex requirements into clean, maintainable code. When I’m n
 
 | Project | Description | Tech Stack | Live Demo | Repo |
 |--------|-------------|------------|----------|------|
-| ✍️ **Blog App** | Full-stack blog platform with auth | MERN, JWT | [🔗 Live](https://blog-app-five-sigma-33.vercel.app/) | [💻 Repo](https://github.com/Rishusingh372/Blog-App.git) |
-| 📋 **SoftDesk** | Admin/Employee task management system | MERN, JWT, Ant Design | [🔗 Live](https://soft-desk-sandy.vercel.app/) | [💻 Repo](https://github.com/Rishusingh372/SoftDesk.git) |
-| 🌍 **Wanderlust** | Travel website with maps & auth | React, Firebase, Maps API | [🔗 Live](https://wonderlust-1-1ddu.onrender.com) | [💻 Repo]
-(https://github.com/Rishusingh372/WonderLust-.git) |
-| 🎬 **Netflix-GPT** | AI-powered movie recommendation app | React, Firebase, TMDB API | [🔗 Live](REPLACE_THIS_NETFLIX_LIVE_URL) | [💻 Repo](REPLACE_THIS_NETFLIX_REPO_URL) |
+|  **Blog App** | Full-stack blog platform with auth | MERN, JWT | [Live](https://blog-app-five-sigma-33.vercel.app/) | [Repo](https://github.com/Rishusingh372/Blog-App.git) |
+|  **SoftDesk** | Admin/Employee task management system | MERN, JWT, Ant Design | [Live](https://soft-desk-sandy.vercel.app/) | [Repo](https://github.com/Rishusingh372/SoftDesk.git) |
+|  **Wanderlust** | Travel website with maps & auth | React, Firebase, Maps API | [Live](https://wonderlust-1-1ddu.onrender.com) | [Repo](https://github.com/Rishusingh372/WonderLust-.git) |
+|  **Netflix-GPT** | AI-powered movie recommendation app | React, Firebase, TMDB API | [Live](https://github.com/Rishusingh372/netflix-gpt.git) | [ Repo](https://github.com/Rishusingh372/netflix-gpt.git) |
 
 ---
 
